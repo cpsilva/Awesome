@@ -142,6 +142,10 @@ ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.
 
 Wrapper for command line interface executables.
 
+### [CsvHelper](https://joshclose.github.io/CsvHelper/)
+
+A library for reading and writing CSV files.
+
 ### [Dapper](https://github.com/StackExchange/Dapper)
 
 A simple object mapper for .NET.
