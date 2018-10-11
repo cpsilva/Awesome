@@ -130,6 +130,14 @@ ASP.NET Core is a cross-platform, high-performance, open-source framework for bu
 
 Incredibly simple real-time web for ASP.NET Core.
 
+### [AWS SDK for .NET](https://docs.aws.amazon.com/sdk-for-net/v2/developer-guide/net-dg-programming-techniques.html)
+
+AWS SDK for .NET application to specify AWS credentials, logging options, endpoints, or signature with Amazon S3.
+
+### [ClosedXML](https://github.com/ClosedXML/ClosedXML)
+
+ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files.
+
 ### [CliWrap](https://github.com/Tyrrrz/CliWrap)
 
 Wrapper for command line interface executables.
