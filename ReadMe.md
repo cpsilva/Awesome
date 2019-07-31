@@ -256,6 +256,10 @@ An easy service hosting framework for building Windows services using .NET.
 
 ## DATABASES
 
+### [CouchDB](https://www.couchbase.com/)
+
+Couchbase is NoSQL database for business-critical applications.
+
 ### [CouchDB](http://couchdb.apache.org)
 
 Apache CouchDB is open source database software that focuses on ease of use and having a scalable architecture.
