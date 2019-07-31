@@ -256,7 +256,7 @@ An easy service hosting framework for building Windows services using .NET.
 
 ## DATABASES
 
-### [CouchDB](https://www.couchbase.com/)
+### [Couchbase](https://www.couchbase.com/)
 
 Couchbase is NoSQL database for business-critical applications.
 
